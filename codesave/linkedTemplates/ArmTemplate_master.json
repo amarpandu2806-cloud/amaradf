@@ -15,6 +15,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'LS_Sqlserver'"
 		},
+		"LS_AMAR_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'LS_AMAR'"
+		},
 		"LS_Sqlserver_properties_typeProperties_server": {
 			"type": "string",
 			"defaultValue": "trainingsqlservercodesavy.database.windows.net"
@@ -59,6 +63,9 @@
 					},
 					"LS_Sqlserver_password": {
 						"value": "[parameters('LS_Sqlserver_password')]"
+					},
+					"LS_AMAR_connectionString": {
+						"value": "[parameters('LS_AMAR_connectionString')]"
 					},
 					"LS_Sqlserver_properties_typeProperties_server": {
 						"value": "[parameters('LS_Sqlserver_properties_typeProperties_server')]"

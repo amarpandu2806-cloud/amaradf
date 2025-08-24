@@ -11,6 +11,9 @@
 		"LS_Sqlserver_password": {
 			"value": ""
 		},
+		"LS_AMAR_connectionString": {
+			"value": ""
+		},
 		"LS_Sqlserver_properties_typeProperties_server": {
 			"value": "trainingsqlservercodesavy.database.windows.net"
 		},

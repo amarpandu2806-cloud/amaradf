@@ -6,7 +6,7 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=codesaveamar;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEY1M0Y1NkIzLUM5QkMtNDUwRC1BQzI0LUFGOEEwNTBBNTBCQV9jZmM4M2E0MS0wN2I4LTQ3YmItOTcyYy1jOWM1MTdkMzEzYzMiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEY1M0Y1NkIzLUM5QkMtNDUwRC1BQzI0LUFGOEEwNTBBNTBCQV9hYjJmNzkyNS1iZjFmLTQ5ODYtOTg5Yi02ODQ4M2ZhNmQyNTUiDQp9"
 		},
 		"connectVia": {
 			"referenceName": "Azure-IR",
